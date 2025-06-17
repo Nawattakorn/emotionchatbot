@@ -1,5 +1,6 @@
-Flask
-tensorflow
+Flask==3.0.3
+tensorflow==2.17.0
 numpy
-scikit-learn
+scikit-learn==1.6.1
 gunicorn
+  
