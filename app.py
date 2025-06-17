@@ -104,4 +104,4 @@ def generate_dynamic_response(emotion, probabilities):
     return random.choice(RESPONSE_RULES.get(emotion, RESPONSE_RULES['default']))
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
