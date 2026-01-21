@@ -13,7 +13,7 @@
 
 ## การติดตั้ง
 
-1. **คลอนรีโพซิทอรี**
+1. **Clone Repository**
    ```bash
    git clone https://github.com/Nawattakorn/emotionchatbot.git
    cd emotionchatbot
