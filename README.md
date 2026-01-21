@@ -18,7 +18,7 @@
    git clone https://github.com/Nawattakorn/emotionchatbot.git
    cd emotionchatbot
    ```
-2. **สร้าง virtual environment** (แนะนำ) 
+2. **สร้าง virtual environment** 
    ```bash
    python -m venv venv
    source venv/bin/activate   # บน Windows ใช้ `venv\\Scripts\\activate`
